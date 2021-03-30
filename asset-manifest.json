@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/carousel.git/static/css/main.899c8c77.chunk.css",
-    "main.js": "/carousel.git/static/js/main.15e3c605.chunk.js",
-    "main.js.map": "/carousel.git/static/js/main.15e3c605.chunk.js.map",
+    "main.js": "/carousel.git/static/js/main.9add8f64.chunk.js",
+    "main.js.map": "/carousel.git/static/js/main.9add8f64.chunk.js.map",
     "runtime-main.js": "/carousel.git/static/js/runtime-main.772da090.js",
     "runtime-main.js.map": "/carousel.git/static/js/runtime-main.772da090.js.map",
     "static/css/2.6b560088.chunk.css": "/carousel.git/static/css/2.6b560088.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6b560088.chunk.css",
     "static/js/2.d18a82fc.chunk.js",
     "static/css/main.899c8c77.chunk.css",
-    "static/js/main.15e3c605.chunk.js"
+    "static/js/main.9add8f64.chunk.js"
   ]
 }
