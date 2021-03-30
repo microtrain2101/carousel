@@ -13,7 +13,7 @@ function App() {
 <div style={styles}>
 <Carousel>
 <div>
-<img src="public/images/aquaman.jpg" alt="Aquaman" />
+<img src="./images/aquaman.jpg" alt="Aquaman" />
 <p className="legend">Aquaman</p>
 </div>
 <div>
