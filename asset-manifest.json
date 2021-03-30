@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carousel.git/static/css/main.899c8c77.chunk.css",
+    "main.js": "/carousel.git/static/js/main.15e3c605.chunk.js",
+    "main.js.map": "/carousel.git/static/js/main.15e3c605.chunk.js.map",
+    "runtime-main.js": "/carousel.git/static/js/runtime-main.772da090.js",
+    "runtime-main.js.map": "/carousel.git/static/js/runtime-main.772da090.js.map",
+    "static/css/2.6b560088.chunk.css": "/carousel.git/static/css/2.6b560088.chunk.css",
+    "static/js/2.d18a82fc.chunk.js": "/carousel.git/static/js/2.d18a82fc.chunk.js",
+    "static/js/2.d18a82fc.chunk.js.map": "/carousel.git/static/js/2.d18a82fc.chunk.js.map",
+    "static/js/3.2a61bbfd.chunk.js": "/carousel.git/static/js/3.2a61bbfd.chunk.js",
+    "static/js/3.2a61bbfd.chunk.js.map": "/carousel.git/static/js/3.2a61bbfd.chunk.js.map",
+    "index.html": "/carousel.git/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/carousel.git/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.899c8c77.chunk.css.map": "/carousel.git/static/css/main.899c8c77.chunk.css.map",
+    "static/js/2.d18a82fc.chunk.js.LICENSE.txt": "/carousel.git/static/js/2.d18a82fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.772da090.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.d18a82fc.chunk.js",
+    "static/css/main.899c8c77.chunk.css",
+    "static/js/main.15e3c605.chunk.js"
+  ]
+}
