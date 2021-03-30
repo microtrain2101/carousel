@@ -17,7 +17,7 @@ function App() {
 <p className="legend">Aquaman</p>
 </div>
 <div>
-<img src="public/images/batman.jpg" alt="Batman"/>
+<img src="./images/batman.jpg" alt="Batman"/>
 <p className="legend">Batman</p>
 </div>
 <div>
